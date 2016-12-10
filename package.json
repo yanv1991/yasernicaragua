@@ -1,8 +1,8 @@
 {
-  "name": "gaboesquivel",
+  "name": "yasernicaragua",
   "version": "1.0.2",
-  "description": "Gabo Esquivel - Software Craftsman",
-  "author": "Gabo Esquivel",
+  "description": "Yaser Nicaragua - Software Craftsman",
+  "author": "Yaser Nicaragua",
   "main": "./index.json",
   "scripts": {
     "postinstall": "cat index.json"

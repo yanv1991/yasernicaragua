@@ -1,19 +1,19 @@
-# gaboesquivel
+# yasernicaragua
 
-> Gabo Esquivel
+> Yaser Nicaragua
 
 # install
 
 As a `postinstall` script.
 
 ```bash
-npm install gaboesquivel
+npm install yasernicaragua
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('gaboesquivel'));
+console.log(require('yasernicaragua'));
 ```
 
 # credits
